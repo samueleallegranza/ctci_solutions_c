@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "list_int.h": "c",
+        "*.tcc": "cpp"
     }
 }
